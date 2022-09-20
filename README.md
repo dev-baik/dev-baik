@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Baik Jin Woo
+- 🙆‍♂️‍ A person who likes to grow up with colleagues
+- 🙋 Someone who likes to put thoughts into code
+- 🏫 Dongyang Mirae University 
+- 🌱 I’m currently learning  Kotlin, Android 
 
-<!--
-**dev-baik/dev-baik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+![Build Status](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Build Status](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Build Status](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Build Status](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Here are some ideas to get you started:
+![Build Status](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Build Status](https://img.shields.io/badge/gather-7952B3?style=for-the-badge&logoColor=white)
+![Build Status](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Build Status](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-baik&hide=contribs,prs&theme=vue&show_icons=true)
+
