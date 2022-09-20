@@ -1,8 +1,8 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=353535&text=Baik%20Jin%20Woo&height=140&fontSize=80&desc=🚀Android%20Developer🚀&descAlignY=80&descAlign=45&animation=fadeIn&fontAlign=30&descSize=20)
 
-## 🙋 Hi! Nice to meet you.
+## 🙋‍♂️ Hi! Nice to meet you.
 - 👨‍🚀 A person who likes to grow up with colleagues
-- 🙆‍ Someone who likes to put thoughts into code
+- 🙆‍♀️ Someone who likes to put thoughts into code
 - 🏫 Dongyang Mirae University 
 - 🌱 I’m currently learning  Kotlin and Android 
 
